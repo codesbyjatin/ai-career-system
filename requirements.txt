@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+pandas
+spacy
+pdfplumber
+pymysql
+openai
+python-dotenv
+reportlab
